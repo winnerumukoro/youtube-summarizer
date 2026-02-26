@@ -194,19 +194,19 @@ elif not summarize_btn:
     col1, col2, col3 = st.columns(3)
     with col1:
         st.markdown("""
-        ### 📋 Step 1
+        ### Step 1
         **Paste a YouTube URL**
         Copy any YouTube video link and paste it above
         """)
     with col2:
         st.markdown("""
-        ### ⚡ Step 2
+        ### Step 2
         **Click Summarize**
         Our AI fetches the transcript and generates a summary instantly
         """)
     with col3:
         st.markdown("""
-        ### 💬 Step 3
+        ### Step 3
         **Ask Questions**
         Dive deeper by asking anything about the video content
         """)
